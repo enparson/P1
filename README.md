@@ -1,2 +1,2 @@
 # P1
-A shopping assissant robot for use with the Pega training website
+RoSa, or Robotic Shopping Assisant is a UiPath automation that shops for a vendor utilizing the Pega training website.
