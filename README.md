@@ -7,16 +7,17 @@ Azure Data Studio/Microsoft Azure Portal<br>
 Pega Training Website <https://training.openspan.com/login>
 ## Features
 ### Current Features
-- Takes in customer shopping lists from excel files
+- Takes in customer shopping lists from excel files.
 - Shops for customer orders in the Pega platform.
-- Uses customer information on file within SQLserver database for the client
-- Records the expenses alongside base service fee and commission fee in a receipt as a .xlsx file and emails that to the client
-- Emails the receipts to shopper for profit report
-- Sends customers' order numbers to be stored in the database
+- Uses customer information on file within SQLserver database for the client.
+- Records the expenses alongside base service fee and commission fee in a receipt as a .xlsx file and emails that to the client.
+- Emails the receipts to shopper for profit report.
+- Sends customers' order numbers to be stored in the database.
 
 ### Future Improvements
-- Store customers' individual orders within database
-- Retrieve customer data into a simplified profit report to email to shopper
+- Store customers' individual orders within database.
+- Retrieve customer data into a simplified profit report to email to shopper.
+- Scrape customer shopping lists from email form.
 
 ## Getting Started
 - git clone https://github.com/enparson/P1.git
